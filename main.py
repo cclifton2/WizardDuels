@@ -1,7 +1,6 @@
 
 import random
 
-
 name=input("Hello Young Wizard.  What is your name? ")
 
 # Task 1:  Intro
